@@ -11,7 +11,7 @@
 In this project, we developed a data-driven crime risk prediction system for the city of Chicago using a Random Forest classifier. 
 We cleaned and aggregated over 300,000 crime records by district, weekday, and time of day. We also engineered temporal and categorical 
 features, and trained the model to assign each location and time-based group a risk rating from 1 to 10. The model was built and 
-evaluated using Python, pandas, and scikit-learn in a Jupyter Notebook environment, with visualization support through Matplotlib.
+evaluated using Python, pandas, and scikit-learn in a Jupyter Notebook environment, with visualizations done through Matplotlib.
 
 
 # 
